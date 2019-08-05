@@ -1,0 +1,1299 @@
+2019/07/26/ 17:15:22 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/26/ 17:15:22 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/26/ 17:15:27 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/26/ 17:15:32 PM - INFO - framework_setup - driver初始化
+2019/07/26/ 17:15:35 PM - INFO - framework_setup - 框架初始化
+2019/07/26/ 17:15:36 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/26/ 17:15:37 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/26/ 17:15:38 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/26/ 17:15:39 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/26/ 17:15:40 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/26/ 17:15:40 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/26/ 17:15:41 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/26/ 17:15:43 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/26/ 17:15:46 PM - INFO - framework_teardown - driver销毁
+2019/07/26/ 17:16:21 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/26/ 17:16:21 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/26/ 17:16:27 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/26/ 17:16:32 PM - INFO - framework_setup - driver初始化
+2019/07/26/ 17:16:34 PM - INFO - framework_setup - 框架初始化
+2019/07/26/ 17:16:35 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/26/ 17:16:36 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/26/ 17:16:37 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/26/ 17:16:38 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/26/ 17:16:39 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/26/ 17:16:40 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/26/ 17:16:41 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/26/ 17:16:44 PM - INFO - framework_teardown - driver销毁
+2019/07/26/ 17:23:57 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/26/ 17:23:57 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/26/ 17:24:14 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/26/ 17:24:14 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/26/ 17:24:19 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/26/ 17:24:24 PM - INFO - framework_setup - driver初始化
+2019/07/26/ 17:24:27 PM - INFO - framework_setup - 框架初始化
+2019/07/26/ 17:24:28 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/26/ 17:24:29 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/26/ 17:24:29 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/26/ 17:24:31 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/26/ 17:24:31 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/26/ 17:24:32 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/26/ 17:24:33 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/26/ 17:24:35 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/26/ 17:24:37 PM - INFO - new_find_element - //div[@class='li-table-body']/div[1]/div[10]//input该元素没有明确是哪种方式定位，无法定位
+2019/07/26/ 17:24:38 PM - INFO - framework_teardown - driver销毁
+2019/07/29/ 09:46:55 AM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 09:46:55 AM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 09:47:04 AM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 09:47:09 AM - INFO - framework_setup - driver初始化
+2019/07/29/ 09:47:12 AM - INFO - framework_setup - 框架初始化
+2019/07/29/ 09:47:13 AM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/29/ 09:47:14 AM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 09:47:15 AM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 09:47:32 AM - INFO - framework_teardown - driver销毁
+2019/07/29/ 11:36:32 AM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 11:36:32 AM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 11:36:41 AM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 11:36:46 AM - INFO - framework_setup - driver初始化
+2019/07/29/ 11:36:49 AM - INFO - framework_setup - 框架初始化
+2019/07/29/ 11:36:50 AM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/29/ 11:36:51 AM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 11:36:52 AM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 11:36:53 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/29/ 11:36:54 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/29/ 11:36:55 AM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 11:36:56 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 11:36:58 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 11:37:01 AM - INFO - framework_teardown - driver销毁
+2019/07/29/ 14:01:21 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:01:21 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:03:45 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:03:45 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:05:19 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:05:19 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:05:27 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 14:05:32 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 14:05:34 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 14:05:35 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/29/ 14:05:37 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 14:05:37 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 14:05:38 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/29/ 14:05:39 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/29/ 14:05:40 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 14:05:41 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 14:05:43 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 14:05:47 PM - INFO - framework_teardown - driver销毁
+2019/07/29/ 14:06:32 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:06:32 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:06:37 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 14:06:42 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 14:06:44 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 14:06:45 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/29/ 14:06:47 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 14:06:47 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 14:06:49 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/29/ 14:06:50 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/29/ 14:06:50 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 14:06:52 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 14:06:54 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 14:06:56 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：None
+2019/07/29/ 14:06:58 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：18.6
+2019/07/29/ 14:07:00 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：24.8
+2019/07/29/ 14:07:01 PM - INFO - locator_click - 点击元素： xpath=//div[@class='li-table-body']/div[3]/div[13]//i[@title='删除']
+2019/07/29/ 14:07:02 PM - INFO - framework_teardown - driver销毁
+2019/07/29/ 14:08:25 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:08:25 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:08:31 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 14:08:36 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 14:08:38 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 14:08:39 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/29/ 14:08:40 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 14:08:41 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 14:08:42 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/29/ 14:08:43 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/29/ 14:08:44 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 14:08:45 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 14:08:47 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 14:08:50 PM - INFO - framework_teardown - driver销毁
+2019/07/29/ 14:09:20 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:09:20 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:09:25 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 14:09:30 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 14:09:32 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 14:09:33 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/29/ 14:09:34 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 14:09:35 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 14:09:36 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/29/ 14:09:37 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/29/ 14:09:38 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 14:09:39 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 14:09:41 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 14:09:44 PM - INFO - framework_teardown - driver销毁
+2019/07/29/ 14:10:27 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:10:27 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:10:33 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 14:10:38 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 14:10:51 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:10:51 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:10:56 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 14:11:01 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 14:11:03 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 14:11:04 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/29/ 14:11:05 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 14:11:06 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 14:11:07 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/29/ 14:11:08 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/29/ 14:11:09 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 14:11:10 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 14:11:12 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 14:11:42 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:11:42 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:11:47 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 14:11:52 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 14:11:54 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 14:11:55 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/29/ 14:11:56 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 14:11:57 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 14:11:58 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/29/ 14:11:59 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/29/ 14:12:00 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 14:12:01 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 14:12:03 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 14:12:05 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：['B291412']
+2019/07/29/ 14:12:07 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：26.0
+2019/07/29/ 14:12:10 PM - INFO - framework_teardown - driver销毁
+2019/07/29/ 14:12:29 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:12:29 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:12:35 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 14:12:40 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 14:12:42 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 14:12:43 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/29/ 14:12:44 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 14:12:45 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 14:12:46 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/29/ 14:12:47 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/29/ 14:12:47 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 14:12:48 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 14:12:50 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 14:12:52 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：B291412
+2019/07/29/ 14:12:55 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：22.4
+2019/07/29/ 14:12:57 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：24.8
+2019/07/29/ 14:12:58 PM - INFO - locator_click - 点击元素： xpath=//div[@class='li-table-body']/div[3]/div[13]//i[@title='删除']
+2019/07/29/ 14:12:59 PM - INFO - locator_click - 点击元素： xpath=//span/span[text()='确定']
+2019/07/29/ 14:13:00 PM - INFO - locator_click - 点击元素： xpath=//button/span[contains(text(),'入库')]
+2019/07/29/ 14:13:03 PM - INFO - framework_teardown - driver销毁
+2019/07/29/ 14:17:33 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:17:33 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 14:17:38 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 14:17:43 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 14:17:45 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 14:17:46 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/29/ 14:17:47 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 14:17:48 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 14:17:49 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/29/ 14:17:50 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/29/ 14:17:51 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 14:17:52 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 14:17:54 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 14:17:56 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：B291417
+2019/07/29/ 14:17:58 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：24.4
+2019/07/29/ 14:18:00 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：25.9
+2019/07/29/ 14:18:02 PM - INFO - locator_click - 点击元素： xpath=//div[@class='li-table-body']/div[3]/div[13]//i[@title='删除']
+2019/07/29/ 14:18:03 PM - INFO - locator_click - 点击元素： xpath=//span/span[text()='确定']
+2019/07/29/ 14:18:04 PM - INFO - locator_click - 点击元素： xpath=//button/span[contains(text(),'入库')]
+2019/07/29/ 14:18:07 PM - INFO - framework_teardown - driver销毁
+2019/07/29/ 16:07:34 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 16:07:34 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 16:07:48 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 16:07:53 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 16:07:55 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 16:07:56 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/29/ 16:07:57 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 16:07:58 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 16:07:59 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/29/ 16:08:00 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/29/ 16:08:01 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 16:08:02 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 16:08:03 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/29/ 16:08:04 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 16:08:05 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：回车
+2019/07/29/ 16:08:06 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：B291608
+2019/07/29/ 16:08:07 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：回车
+2019/07/29/ 16:08:08 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：25.0
+2019/07/29/ 16:08:09 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：回车
+2019/07/29/ 16:08:10 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：23.3
+2019/07/29/ 16:09:03 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 16:09:03 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 16:09:08 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 16:09:13 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 16:09:16 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 16:09:17 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/29/ 16:09:18 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 16:09:18 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 16:09:20 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/29/ 16:09:21 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/29/ 16:09:21 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 16:09:22 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 16:09:23 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/29/ 16:09:25 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 16:09:26 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：回车
+2019/07/29/ 16:09:27 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：B291609
+2019/07/29/ 16:09:28 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：回车
+2019/07/29/ 16:09:29 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：18.0
+2019/07/29/ 16:09:30 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：回车
+2019/07/29/ 16:09:31 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：28.7
+2019/07/29/ 16:09:32 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：回车
+2019/07/29/ 16:09:32 PM - INFO - locator_click - 点击元素： xpath=//div[@class='li-table-body']/div[3]/div[13]//i[@title='删除']
+2019/07/29/ 16:09:33 PM - INFO - locator_click - 点击元素： xpath=//span/span[text()='确定']
+2019/07/29/ 16:09:34 PM - INFO - locator_click - 点击元素： xpath=//button/span[contains(text(),'入库')]
+2019/07/29/ 16:09:37 PM - INFO - framework_teardown - driver销毁
+2019/07/29/ 16:45:31 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 16:45:31 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 16:49:14 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 16:49:14 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 16:49:19 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 16:49:24 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 16:49:27 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 16:49:28 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/29/ 16:49:29 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 16:49:29 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 16:49:31 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/29/ 16:49:31 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/29/ 16:49:32 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 16:49:34 PM - INFO - framework_teardown - driver销毁
+2019/07/29/ 16:55:10 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 16:55:10 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 16:55:15 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 16:55:20 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 16:55:22 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 16:55:23 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/29/ 16:55:24 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 16:55:25 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 16:55:26 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/29/ 16:55:27 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/29/ 16:55:28 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 16:55:29 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 16:55:30 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/29/ 16:55:31 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 16:55:32 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：回车
+2019/07/29/ 16:55:33 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：B291655
+2019/07/29/ 16:55:34 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：回车
+2019/07/29/ 16:55:35 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：23.9
+2019/07/29/ 16:55:36 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：回车
+2019/07/29/ 16:55:37 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：20.3
+2019/07/29/ 16:55:38 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：回车
+2019/07/29/ 16:55:39 PM - INFO - locator_click - 点击元素： xpath=//div[@class='li-table-body']/div[3]/div[13]//i[@title='删除']
+2019/07/29/ 16:55:40 PM - INFO - locator_click - 点击元素： xpath=//span/span[text()='确定']
+2019/07/29/ 16:55:40 PM - INFO - locator_click - 点击元素： xpath=//button/span[contains(text(),'入库')]
+2019/07/29/ 16:55:44 PM - INFO - framework_teardown - driver销毁
+2019/07/29/ 16:56:51 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 16:56:51 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 16:56:57 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 16:57:02 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 16:57:04 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 16:57:05 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/29/ 16:57:06 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 16:57:07 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 16:57:08 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/29/ 16:57:09 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/29/ 16:57:10 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 16:57:11 PM - INFO - locator_click - 点击元素： xpath=//label[text()='分拣中心']//input
+2019/07/29/ 16:57:11 PM - INFO - locator_click - 点击元素： xpath=//span[text()='请选择']
+2019/07/29/ 16:57:12 PM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'分拣中心1')]
+2019/07/29/ 16:57:13 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 16:57:14 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/29/ 16:57:15 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 16:57:16 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：回车
+2019/07/29/ 16:57:17 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：B291657
+2019/07/29/ 16:57:18 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：回车
+2019/07/29/ 16:57:19 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：21.6
+2019/07/29/ 16:57:20 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：回车
+2019/07/29/ 16:57:21 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：22.0
+2019/07/29/ 16:57:22 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：回车
+2019/07/29/ 16:57:23 PM - INFO - locator_click - 点击元素： xpath=//div[@class='li-table-body']/div[3]/div[13]//i[@title='删除']
+2019/07/29/ 16:57:24 PM - INFO - locator_click - 点击元素： xpath=//span/span[text()='确定']
+2019/07/29/ 16:57:25 PM - INFO - locator_click - 点击元素： xpath=//button/span[contains(text(),'入库')]
+2019/07/29/ 16:57:28 PM - INFO - framework_teardown - driver销毁
+2019/07/29/ 17:02:51 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 17:02:51 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 17:02:56 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 17:03:01 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 17:03:03 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 17:03:04 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/29/ 17:03:05 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 17:03:06 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 17:03:08 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/29/ 17:03:08 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/29/ 17:03:09 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 17:03:10 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(),'大货')]
+2019/07/29/ 17:03:11 PM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'散剪')]
+2019/07/29/ 17:03:12 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 17:03:13 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/29/ 17:03:14 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 17:03:15 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：回车
+2019/07/29/ 17:03:16 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：B291703
+2019/07/29/ 17:03:17 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：回车
+2019/07/29/ 17:03:18 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：23.9
+2019/07/29/ 17:03:19 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：回车
+2019/07/29/ 17:03:20 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：25.1
+2019/07/29/ 17:03:21 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：回车
+2019/07/29/ 17:03:22 PM - INFO - locator_click - 点击元素： xpath=//div[@class='li-table-body']/div[3]/div[13]//i[@title='删除']
+2019/07/29/ 17:03:22 PM - INFO - locator_click - 点击元素： xpath=//span/span[text()='确定']
+2019/07/29/ 17:03:23 PM - INFO - locator_click - 点击元素： xpath=//button/span[contains(text(),'入库')]
+2019/07/29/ 17:03:26 PM - INFO - framework_teardown - driver销毁
+2019/07/29/ 17:04:05 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 17:04:05 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 17:04:10 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 17:04:15 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 17:04:18 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 17:04:19 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/29/ 17:04:20 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 17:04:20 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 17:04:22 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/29/ 17:04:23 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/29/ 17:04:23 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 17:04:24 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 17:04:25 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/29/ 17:04:26 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 17:04:27 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：回车
+2019/07/29/ 17:04:28 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：B291704
+2019/07/29/ 17:04:29 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：回车
+2019/07/29/ 17:04:30 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：19.8
+2019/07/29/ 17:04:32 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：回车
+2019/07/29/ 17:04:33 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：21.4
+2019/07/29/ 17:04:34 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：回车
+2019/07/29/ 17:04:34 PM - INFO - locator_click - 点击元素： xpath=//div[@class='li-table-body']/div[3]/div[13]//i[@title='删除']
+2019/07/29/ 17:04:35 PM - INFO - locator_click - 点击元素： xpath=//span/span[text()='确定']
+2019/07/29/ 17:04:36 PM - INFO - locator_click - 点击元素： xpath=//button/span[contains(text(),'入库')]
+2019/07/29/ 17:04:39 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 17:04:40 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(),'大货')]
+2019/07/29/ 17:04:40 PM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'散剪')]
+2019/07/29/ 17:04:41 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 17:04:42 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/29/ 17:04:43 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 17:04:44 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：回车
+2019/07/29/ 17:04:46 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：B291704
+2019/07/29/ 17:04:47 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：回车
+2019/07/29/ 17:04:48 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：19.4
+2019/07/29/ 17:04:49 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：回车
+2019/07/29/ 17:04:50 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：24.9
+2019/07/29/ 17:04:51 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：回车
+2019/07/29/ 17:04:51 PM - INFO - locator_click - 点击元素： xpath=//div[@class='li-table-body']/div[3]/div[13]//i[@title='删除']
+2019/07/29/ 17:04:52 PM - INFO - locator_click - 点击元素： xpath=//span/span[text()='确定']
+2019/07/29/ 17:04:53 PM - INFO - locator_click - 点击元素： xpath=//button/span[contains(text(),'入库')]
+2019/07/29/ 17:04:56 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 17:04:57 PM - INFO - locator_click - 点击元素： xpath=//label[text()='分拣中心']//input
+2019/07/29/ 17:04:58 PM - INFO - locator_click - 点击元素： xpath=//span[text()='请选择']
+2019/07/29/ 17:04:58 PM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'分拣中心1')]
+2019/07/29/ 17:04:59 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 17:05:00 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/29/ 17:05:01 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 17:05:02 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：回车
+2019/07/29/ 17:05:03 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：B291705
+2019/07/29/ 17:05:04 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：回车
+2019/07/29/ 17:05:05 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：18.7
+2019/07/29/ 17:05:06 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：回车
+2019/07/29/ 17:05:07 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：19.6
+2019/07/29/ 17:05:08 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：回车
+2019/07/29/ 17:05:09 PM - INFO - locator_click - 点击元素： xpath=//div[@class='li-table-body']/div[3]/div[13]//i[@title='删除']
+2019/07/29/ 17:05:10 PM - INFO - locator_click - 点击元素： xpath=//span/span[text()='确定']
+2019/07/29/ 17:05:11 PM - INFO - locator_click - 点击元素： xpath=//button/span[contains(text(),'入库')]
+2019/07/29/ 17:05:14 PM - INFO - framework_teardown - driver销毁
+2019/07/29/ 17:05:21 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 17:05:26 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 17:05:28 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 17:05:29 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/29/ 17:05:30 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 17:05:31 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 17:05:32 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/29/ 17:05:33 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/29/ 17:05:34 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/29/ 17:05:35 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/29/ 17:05:37 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/29/ 17:05:38 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：580
+2019/07/29/ 17:06:09 PM - INFO - framework_teardown - driver销毁
+2019/07/29/ 17:10:08 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 17:10:08 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 17:10:13 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 17:10:19 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 17:10:21 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 17:10:22 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/29/ 17:10:23 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 17:10:24 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 17:10:25 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/29/ 17:10:26 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/29/ 17:10:27 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 17:10:28 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 17:10:29 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/29/ 17:10:30 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 17:10:31 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：回车
+2019/07/29/ 17:10:32 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：B291710
+2019/07/29/ 17:10:33 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：回车
+2019/07/29/ 17:10:34 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：23.0
+2019/07/29/ 17:10:35 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：回车
+2019/07/29/ 17:10:36 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：26.5
+2019/07/29/ 17:10:37 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：回车
+2019/07/29/ 17:10:38 PM - INFO - locator_click - 点击元素： xpath=//div[@class='li-table-body']/div[3]/div[13]//i[@title='删除']
+2019/07/29/ 17:10:38 PM - INFO - locator_click - 点击元素： xpath=//span/span[text()='确定']
+2019/07/29/ 17:10:39 PM - INFO - locator_click - 点击元素： xpath=//button/span[contains(text(),'入库')]
+2019/07/29/ 17:10:43 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 17:10:43 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(),'大货')]
+2019/07/29/ 17:10:44 PM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'散剪')]
+2019/07/29/ 17:10:45 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 17:10:46 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/29/ 17:10:47 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 17:10:48 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：回车
+2019/07/29/ 17:10:49 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：B291710
+2019/07/29/ 17:10:50 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：回车
+2019/07/29/ 17:10:51 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：25.6
+2019/07/29/ 17:10:52 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：回车
+2019/07/29/ 17:10:53 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：26.9
+2019/07/29/ 17:10:54 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：回车
+2019/07/29/ 17:10:55 PM - INFO - locator_click - 点击元素： xpath=//div[@class='li-table-body']/div[3]/div[13]//i[@title='删除']
+2019/07/29/ 17:10:56 PM - INFO - locator_click - 点击元素： xpath=//span/span[text()='确定']
+2019/07/29/ 17:10:57 PM - INFO - locator_click - 点击元素： xpath=//button/span[contains(text(),'入库')]
+2019/07/29/ 17:11:00 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 17:11:00 PM - INFO - locator_click - 点击元素： xpath=//label[text()='分拣中心']//input
+2019/07/29/ 17:11:01 PM - INFO - locator_click - 点击元素： xpath=//span[text()='请选择']
+2019/07/29/ 17:11:02 PM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'分拣中心1')]
+2019/07/29/ 17:11:03 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 17:11:04 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/29/ 17:11:05 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 17:11:06 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：回车
+2019/07/29/ 17:11:07 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：B291711
+2019/07/29/ 17:11:08 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：回车
+2019/07/29/ 17:11:09 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：26.5
+2019/07/29/ 17:11:10 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：回车
+2019/07/29/ 17:11:11 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：21.0
+2019/07/29/ 17:11:12 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：回车
+2019/07/29/ 17:11:13 PM - INFO - locator_click - 点击元素： xpath=//div[@class='li-table-body']/div[3]/div[13]//i[@title='删除']
+2019/07/29/ 17:11:13 PM - INFO - locator_click - 点击元素： xpath=//span/span[text()='确定']
+2019/07/29/ 17:11:14 PM - INFO - locator_click - 点击元素： xpath=//button/span[contains(text(),'入库')]
+2019/07/29/ 17:11:17 PM - INFO - new_find_element - //tr[1]//span[text()='确认入库']该元素没有明确是哪种方式定位，无法定位
+2019/07/29/ 17:11:18 PM - INFO - framework_teardown - driver销毁
+2019/07/29/ 17:11:23 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 17:11:28 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 17:11:31 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 17:11:32 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/29/ 17:11:33 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 17:11:33 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 17:11:34 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/29/ 17:11:35 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/29/ 17:11:36 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/29/ 17:11:37 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/29/ 17:11:39 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/29/ 17:11:40 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：580
+2019/07/29/ 17:11:41 PM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'580')]
+2019/07/29/ 17:11:42 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/29/ 17:11:43 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/29/ 17:11:44 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//input 写入信息：1
+2019/07/29/ 17:11:45 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[7]//input 写入信息：56.52
+2019/07/29/ 17:11:46 PM - INFO - locator_click - 点击元素： xpath=//span[text()='确定开单']
+2019/07/29/ 17:11:49 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '取消订单')]
+2019/07/29/ 17:11:50 PM - INFO - locator_click - 点击元素： xpath=//p[text()='取消订单']/../../..//span[contains(text(),'确定')]
+2019/07/29/ 17:11:51 PM - INFO - framework_teardown - driver销毁
+2019/07/29/ 17:24:49 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 17:24:49 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 17:24:54 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 17:24:59 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 17:25:06 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 17:25:07 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/29/ 17:25:08 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 17:25:08 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 17:25:11 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/29/ 17:25:12 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/29/ 17:25:38 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 17:25:39 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 17:25:41 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 17:25:43 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：B291725
+2019/07/29/ 17:25:46 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：23.2
+2019/07/29/ 17:25:48 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：26.8
+2019/07/29/ 17:25:49 PM - INFO - locator_click - 点击元素： xpath=//div[@class='li-table-body']/div[3]/div[13]//i[@title='删除']
+2019/07/29/ 17:25:50 PM - INFO - locator_click - 点击元素： xpath=//span/span[text()='确定']
+2019/07/29/ 17:25:51 PM - INFO - locator_click - 点击元素： xpath=//button/span[contains(text(),'入库')]
+2019/07/29/ 17:25:54 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 17:25:55 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(),'大货')]
+2019/07/29/ 17:25:56 PM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'散剪')]
+2019/07/29/ 17:25:57 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 17:26:30 PM - INFO - framework_teardown - driver销毁
+2019/07/29/ 17:26:36 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 17:26:41 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 17:26:50 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 17:26:51 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/29/ 17:26:52 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 17:26:53 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 17:27:04 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/29/ 17:27:05 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/29/ 17:27:07 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/29/ 17:27:08 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/29/ 17:27:11 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：580
+2019/07/29/ 17:27:11 PM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'580')]
+2019/07/29/ 17:27:12 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/29/ 17:27:14 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//input 写入信息：1
+2019/07/29/ 17:27:16 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[7]//input 写入信息：30.29
+2019/07/29/ 17:27:16 PM - INFO - locator_click - 点击元素： xpath=//span[text()='确定开单']
+2019/07/29/ 17:27:21 PM - INFO - framework_teardown - driver销毁
+2019/07/29/ 17:42:14 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 17:42:14 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 17:42:19 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 17:42:24 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 17:42:26 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 17:42:27 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/29/ 17:42:28 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 17:42:29 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 17:42:30 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/29/ 17:42:31 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/29/ 17:42:32 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 17:42:33 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 17:42:34 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/29/ 17:42:35 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 17:42:36 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：回车
+2019/07/29/ 17:42:37 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：B291742
+2019/07/29/ 17:42:38 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：回车
+2019/07/29/ 17:42:39 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：26.1
+2019/07/29/ 17:42:40 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：回车
+2019/07/29/ 17:42:41 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：20.6
+2019/07/29/ 17:42:42 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：回车
+2019/07/29/ 17:42:43 PM - INFO - locator_click - 点击元素： xpath=//div[@class='li-table-body']/div[3]/div[13]//i[@title='删除']
+2019/07/29/ 17:42:44 PM - INFO - locator_click - 点击元素： xpath=//span/span[text()='确定']
+2019/07/29/ 17:42:44 PM - INFO - locator_click - 点击元素： xpath=//button/span[contains(text(),'入库')]
+2019/07/29/ 17:42:45 PM - INFO - locator_text - 获取文字：xpath=//div[contains(@class,'ivu-message-success')]
+2019/07/29/ 17:42:48 PM - INFO - framework_teardown - driver销毁
+2019/07/29/ 21:14:33 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 21:14:33 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/29/ 21:14:42 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 21:14:47 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 21:14:49 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 21:14:50 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/29/ 21:14:51 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 21:14:52 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 21:14:54 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/29/ 21:14:55 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/29/ 21:14:56 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 21:14:57 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 21:14:58 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/29/ 21:14:59 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 21:15:00 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：回车
+2019/07/29/ 21:15:01 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：B292115
+2019/07/29/ 21:15:02 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：回车
+2019/07/29/ 21:15:03 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：20.5
+2019/07/29/ 21:15:04 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：回车
+2019/07/29/ 21:15:05 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：27.1
+2019/07/29/ 21:15:06 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：回车
+2019/07/29/ 21:15:07 PM - INFO - locator_click - 点击元素： xpath=//div[@class='li-table-body']/div[3]/div[13]//i[@title='删除']
+2019/07/29/ 21:15:07 PM - INFO - locator_click - 点击元素： xpath=//span/span[text()='确定']
+2019/07/29/ 21:15:08 PM - INFO - locator_click - 点击元素： xpath=//button/span[contains(text(),'入库')]
+2019/07/29/ 21:15:11 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 21:15:12 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(),'大货')]
+2019/07/29/ 21:15:13 PM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'散剪')]
+2019/07/29/ 21:15:14 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 21:15:15 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/29/ 21:15:16 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 21:15:17 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：回车
+2019/07/29/ 21:15:18 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：B292115
+2019/07/29/ 21:15:19 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：回车
+2019/07/29/ 21:15:20 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：26.0
+2019/07/29/ 21:15:21 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：回车
+2019/07/29/ 21:15:22 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：25.3
+2019/07/29/ 21:15:23 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：回车
+2019/07/29/ 21:15:24 PM - INFO - locator_click - 点击元素： xpath=//div[@class='li-table-body']/div[3]/div[13]//i[@title='删除']
+2019/07/29/ 21:15:25 PM - INFO - locator_click - 点击元素： xpath=//span/span[text()='确定']
+2019/07/29/ 21:15:26 PM - INFO - locator_click - 点击元素： xpath=//button/span[contains(text(),'入库')]
+2019/07/29/ 21:15:29 PM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/29/ 21:15:30 PM - INFO - locator_click - 点击元素： xpath=//label[text()='分拣中心']//input
+2019/07/29/ 21:15:31 PM - INFO - locator_click - 点击元素： xpath=//span[text()='请选择']
+2019/07/29/ 21:15:31 PM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'分拣中心1')]
+2019/07/29/ 21:15:32 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/29/ 21:15:33 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/29/ 21:15:34 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/29/ 21:15:35 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：回车
+2019/07/29/ 21:15:36 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：B292115
+2019/07/29/ 21:15:37 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：回车
+2019/07/29/ 21:15:38 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：25.8
+2019/07/29/ 21:15:40 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：回车
+2019/07/29/ 21:15:41 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：26.1
+2019/07/29/ 21:15:42 PM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：回车
+2019/07/29/ 21:15:42 PM - INFO - locator_click - 点击元素： xpath=//div[@class='li-table-body']/div[3]/div[13]//i[@title='删除']
+2019/07/29/ 21:15:43 PM - INFO - locator_click - 点击元素： xpath=//span/span[text()='确定']
+2019/07/29/ 21:15:44 PM - INFO - locator_click - 点击元素： xpath=//button/span[contains(text(),'入库')]
+2019/07/29/ 21:15:47 PM - INFO - locator_click - 点击元素： xpath=//tr[1]//span[text()='确认入库']
+2019/07/29/ 21:15:48 PM - INFO - locator_click - 点击元素： xpath=//span[text()='确定']
+2019/07/29/ 21:15:51 PM - INFO - framework_teardown - driver销毁
+2019/07/29/ 21:15:56 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/29/ 21:16:01 PM - INFO - framework_setup - driver初始化
+2019/07/29/ 21:16:04 PM - INFO - framework_setup - 框架初始化
+2019/07/29/ 21:16:05 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/29/ 21:16:06 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/29/ 21:16:07 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/29/ 21:16:08 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/29/ 21:16:09 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/29/ 21:16:10 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/29/ 21:16:11 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/29/ 21:16:13 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/29/ 21:16:14 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：580
+2019/07/29/ 21:16:15 PM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'580')]
+2019/07/29/ 21:16:16 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/29/ 21:16:17 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/29/ 21:16:19 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//input 写入信息：1
+2019/07/29/ 21:16:20 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[7]//input 写入信息：26.52
+2019/07/29/ 21:16:21 PM - INFO - locator_click - 点击元素： xpath=//span[text()='确定开单']
+2019/07/29/ 21:16:24 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '取消订单')]
+2019/07/29/ 21:16:25 PM - INFO - locator_click - 点击元素： xpath=//p[text()='取消订单']/../../..//span[contains(text(),'确定')]
+2019/07/29/ 21:16:26 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 10:32:29 AM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 10:32:29 AM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 10:32:39 AM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 10:32:44 AM - INFO - framework_setup - driver初始化
+2019/07/30/ 10:32:46 AM - INFO - framework_setup - 框架初始化
+2019/07/30/ 10:32:47 AM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：ck3
+2019/07/30/ 10:32:48 AM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 10:32:49 AM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 10:32:50 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '仓库管理' )]
+2019/07/30/ 10:32:51 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '入库管理' )]
+2019/07/30/ 10:32:52 AM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/30/ 10:32:53 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/30/ 10:32:54 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/30/ 10:32:55 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/30/ 10:32:56 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：回车
+2019/07/30/ 10:32:57 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：A301032
+2019/07/30/ 10:32:58 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：回车
+2019/07/30/ 10:32:59 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：18.4
+2019/07/30/ 10:33:00 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：回车
+2019/07/30/ 10:33:01 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：18.0
+2019/07/30/ 10:33:02 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：回车
+2019/07/30/ 10:33:03 AM - INFO - locator_click - 点击元素： xpath=//div[@class='li-table-body']/div[3]/div[13]//i[@title='删除']
+2019/07/30/ 10:33:04 AM - INFO - locator_click - 点击元素： xpath=//span/span[text()='确定']
+2019/07/30/ 10:33:04 AM - INFO - locator_click - 点击元素： xpath=//button/span[contains(text(),'入库')]
+2019/07/30/ 10:33:08 AM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/30/ 10:33:09 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(),'大货')]
+2019/07/30/ 10:33:09 AM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'散剪')]
+2019/07/30/ 10:33:10 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/30/ 10:33:11 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/30/ 10:33:12 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/30/ 10:33:13 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：回车
+2019/07/30/ 10:33:14 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：A301033
+2019/07/30/ 10:33:15 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：回车
+2019/07/30/ 10:33:16 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：27.9
+2019/07/30/ 10:33:17 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：回车
+2019/07/30/ 10:33:18 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：19.8
+2019/07/30/ 10:33:20 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：回车
+2019/07/30/ 10:33:20 AM - INFO - locator_click - 点击元素： xpath=//div[@class='li-table-body']/div[3]/div[13]//i[@title='删除']
+2019/07/30/ 10:33:21 AM - INFO - locator_click - 点击元素： xpath=//span/span[text()='确定']
+2019/07/30/ 10:33:22 AM - INFO - locator_click - 点击元素： xpath=//button/span[contains(text(),'入库')]
+2019/07/30/ 10:33:25 AM - INFO - locator_click - 点击元素： xpath=//div[contains(text(), '新建采购入库' )]
+2019/07/30/ 10:33:26 AM - INFO - locator_click - 点击元素： xpath=//label[text()='分拣中心']//input
+2019/07/30/ 10:33:26 AM - INFO - locator_click - 点击元素： xpath=//span[text()='请选择']
+2019/07/30/ 10:33:27 AM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'分拣中心1')]
+2019/07/30/ 10:33:28 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/30/ 10:33:29 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/30/ 10:33:30 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：1
+2019/07/30/ 10:33:31 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[3]//input 写入信息：回车
+2019/07/30/ 10:33:32 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：A301033
+2019/07/30/ 10:33:33 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[10]//input 写入信息：回车
+2019/07/30/ 10:33:34 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：20.4
+2019/07/30/ 10:33:35 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[1]/div[11]//input 写入信息：回车
+2019/07/30/ 10:33:36 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：18.3
+2019/07/30/ 10:33:37 AM - INFO - locator_send_keys - 向元素：xpath=//div[@class='li-table-body']/div[2]/div[11]//input 写入信息：回车
+2019/07/30/ 10:33:38 AM - INFO - locator_click - 点击元素： xpath=//div[@class='li-table-body']/div[3]/div[13]//i[@title='删除']
+2019/07/30/ 10:33:39 AM - INFO - locator_click - 点击元素： xpath=//span/span[text()='确定']
+2019/07/30/ 10:33:40 AM - INFO - locator_click - 点击元素： xpath=//button/span[contains(text(),'入库')]
+2019/07/30/ 10:33:43 AM - INFO - locator_click - 点击元素： xpath=//tr[1]//span[text()='确认入库']
+2019/07/30/ 10:33:44 AM - INFO - locator_click - 点击元素： xpath=//span[text()='确定']
+2019/07/30/ 10:33:47 AM - INFO - framework_teardown - driver销毁
+2019/07/30/ 10:33:54 AM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 10:33:59 AM - INFO - framework_setup - driver初始化
+2019/07/30/ 10:34:01 AM - INFO - framework_setup - 框架初始化
+2019/07/30/ 10:34:02 AM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 10:34:03 AM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 10:34:04 AM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 10:34:05 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/30/ 10:34:06 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/30/ 10:34:07 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/30/ 10:34:08 AM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/30/ 10:34:10 AM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/30/ 10:34:11 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：580
+2019/07/30/ 10:34:12 AM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'580')]
+2019/07/30/ 10:34:13 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 10:34:14 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 10:34:15 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//input 写入信息：1
+2019/07/30/ 10:34:16 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[7]//input 写入信息：57.46
+2019/07/30/ 10:34:17 AM - INFO - locator_click - 点击元素： xpath=//span[text()='确定开单']
+2019/07/30/ 10:34:20 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '取消订单')]
+2019/07/30/ 10:34:21 AM - INFO - locator_click - 点击元素： xpath=//p[text()='取消订单']/../../..//span[contains(text(),'确定')]
+2019/07/30/ 10:34:22 AM - INFO - framework_teardown - driver销毁
+2019/07/30/ 10:43:16 AM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 10:43:16 AM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 10:43:32 AM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 10:43:32 AM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 10:43:37 AM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 10:43:42 AM - INFO - framework_setup - driver初始化
+2019/07/30/ 10:43:44 AM - INFO - framework_setup - 框架初始化
+2019/07/30/ 10:43:45 AM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 10:43:46 AM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 10:43:47 AM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 10:43:48 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/30/ 10:43:49 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/30/ 10:43:50 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/30/ 10:43:51 AM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/30/ 10:43:53 AM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/30/ 10:43:54 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：580
+2019/07/30/ 10:43:59 AM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'580')]
+2019/07/30/ 10:44:00 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 10:44:01 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 10:44:02 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//input 写入信息：1
+2019/07/30/ 10:44:03 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[7]//input 写入信息：28.99
+2019/07/30/ 10:44:04 AM - INFO - locator_click - 点击元素： xpath=//span[text()='确定开单']
+2019/07/30/ 10:44:07 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '取消订单')]
+2019/07/30/ 10:44:08 AM - INFO - locator_click - 点击元素： xpath=//p[text()='取消订单']/../../..//span[contains(text(),'确定')]
+2019/07/30/ 10:44:09 AM - INFO - framework_teardown - driver销毁
+2019/07/30/ 10:51:43 AM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 10:51:43 AM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 10:51:48 AM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 10:51:53 AM - INFO - framework_setup - driver初始化
+2019/07/30/ 10:51:55 AM - INFO - framework_setup - 框架初始化
+2019/07/30/ 10:51:56 AM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 10:51:57 AM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 10:51:58 AM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 10:51:59 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/30/ 10:52:00 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/30/ 10:52:01 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/30/ 10:52:02 AM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/30/ 10:52:04 AM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/30/ 10:52:05 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：580
+2019/07/30/ 10:52:12 AM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'580')]
+2019/07/30/ 10:52:13 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 10:52:14 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 10:52:15 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//input 写入信息：1
+2019/07/30/ 10:52:17 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[7]//input 写入信息：23.39
+2019/07/30/ 10:52:18 AM - INFO - locator_click - 点击元素： xpath=//span[text()='确定开单']
+2019/07/30/ 10:52:20 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '取消订单')]
+2019/07/30/ 10:52:21 AM - INFO - locator_click - 点击元素： xpath=//p[text()='取消订单']/../../..//span[contains(text(),'确定')]
+2019/07/30/ 10:52:22 AM - INFO - framework_teardown - driver销毁
+2019/07/30/ 10:55:24 AM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 10:55:24 AM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 10:55:29 AM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 10:55:34 AM - INFO - framework_setup - driver初始化
+2019/07/30/ 10:55:36 AM - INFO - framework_setup - 框架初始化
+2019/07/30/ 10:55:37 AM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 10:55:38 AM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 10:55:39 AM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 10:55:40 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/30/ 10:55:41 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/30/ 10:55:42 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/30/ 10:55:43 AM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/30/ 10:55:45 AM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/30/ 10:55:46 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：58
+2019/07/30/ 10:55:47 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：0
+2019/07/30/ 10:55:48 AM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'58')]
+2019/07/30/ 10:55:49 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 10:55:50 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 10:55:51 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//input 写入信息：1
+2019/07/30/ 10:55:52 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[7]//input 写入信息：34.39
+2019/07/30/ 10:55:53 AM - INFO - locator_click - 点击元素： xpath=//span[text()='确定开单']
+2019/07/30/ 10:55:56 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '取消订单')]
+2019/07/30/ 10:55:57 AM - INFO - locator_click - 点击元素： xpath=//p[text()='取消订单']/../../..//span[contains(text(),'确定')]
+2019/07/30/ 10:55:58 AM - INFO - framework_teardown - driver销毁
+2019/07/30/ 11:00:15 AM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 11:00:15 AM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 11:00:20 AM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 11:00:25 AM - INFO - framework_setup - driver初始化
+2019/07/30/ 11:00:27 AM - INFO - framework_setup - 框架初始化
+2019/07/30/ 11:00:28 AM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 11:00:30 AM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 11:00:30 AM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 11:00:32 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/30/ 11:00:33 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/30/ 11:00:33 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/30/ 11:00:34 AM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/30/ 11:00:36 AM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/30/ 11:00:37 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：58
+2019/07/30/ 11:00:38 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：0
+2019/07/30/ 11:00:39 AM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'58')]
+2019/07/30/ 11:00:40 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 11:00:42 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 11:00:43 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//input 写入信息：1
+2019/07/30/ 11:00:44 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[7]//input 写入信息：51.23
+2019/07/30/ 11:00:45 AM - INFO - locator_click - 点击元素： xpath=//span[text()='确定开单']
+2019/07/30/ 11:00:48 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '取消订单')]
+2019/07/30/ 11:00:48 AM - INFO - locator_click - 点击元素： xpath=//p[text()='取消订单']/../../..//span[contains(text(),'确定')]
+2019/07/30/ 11:00:50 AM - INFO - framework_teardown - driver销毁
+2019/07/30/ 11:15:36 AM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 11:15:36 AM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 11:15:42 AM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 11:15:47 AM - INFO - framework_setup - driver初始化
+2019/07/30/ 11:15:49 AM - INFO - framework_setup - 框架初始化
+2019/07/30/ 11:15:50 AM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 11:15:51 AM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 11:15:52 AM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 11:15:53 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/30/ 11:15:54 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/30/ 11:15:55 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/30/ 11:15:56 AM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/30/ 11:15:58 AM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/30/ 11:15:59 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：58
+2019/07/30/ 11:16:00 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：0
+2019/07/30/ 11:16:01 AM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'58')]
+2019/07/30/ 11:16:02 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 11:16:03 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 11:16:04 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//input 写入信息：1
+2019/07/30/ 11:16:05 AM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[7]//input 写入信息：19.32
+2019/07/30/ 11:16:06 AM - INFO - locator_click - 点击元素： xpath=//span[text()='确定开单']
+2019/07/30/ 11:16:09 AM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '取消订单')]
+2019/07/30/ 11:16:10 AM - INFO - locator_click - 点击元素： xpath=//p[text()='取消订单']/../../..//span[contains(text(),'确定')]
+2019/07/30/ 11:16:11 AM - INFO - framework_teardown - driver销毁
+2019/07/30/ 13:58:54 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 13:58:54 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 13:59:03 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 13:59:08 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 13:59:10 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 13:59:11 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 13:59:12 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 13:59:13 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 13:59:14 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/30/ 13:59:15 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/30/ 13:59:16 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/30/ 13:59:17 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/30/ 13:59:19 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/30/ 13:59:20 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：58
+2019/07/30/ 13:59:21 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：0
+2019/07/30/ 13:59:22 PM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'58')]
+2019/07/30/ 13:59:23 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 13:59:24 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 13:59:25 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//input 写入信息：1
+2019/07/30/ 13:59:26 PM - INFO - locator_click - 点击元素： xpath=//span[text()='确定开单']
+2019/07/30/ 13:59:29 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '取消订单')]
+2019/07/30/ 13:59:29 PM - INFO - locator_click - 点击元素： xpath=//p[text()='取消订单']/../../..//span[contains(text(),'确定')]
+2019/07/30/ 13:59:30 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 14:01:32 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 14:01:32 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 14:01:37 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 14:01:57 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 14:01:57 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 14:02:02 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 14:02:07 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 14:02:10 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 14:02:11 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 14:02:12 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 14:02:12 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 14:02:14 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/30/ 14:02:14 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/30/ 14:02:15 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/30/ 14:02:16 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/30/ 14:02:18 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/30/ 14:02:19 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：58
+2019/07/30/ 14:02:20 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：0
+2019/07/30/ 14:02:21 PM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'58')]
+2019/07/30/ 14:02:22 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 14:02:54 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 14:04:32 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 14:04:32 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 14:04:38 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 14:04:43 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 14:04:45 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 14:04:46 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 14:04:47 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 14:04:48 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 14:04:49 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/30/ 14:04:50 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/30/ 14:04:50 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/30/ 14:04:51 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/30/ 14:04:53 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/30/ 14:04:54 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：58
+2019/07/30/ 14:04:55 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：0
+2019/07/30/ 14:04:56 PM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'58')]
+2019/07/30/ 14:04:57 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 14:05:29 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 14:11:33 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 14:11:33 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 14:11:38 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 14:11:43 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 14:11:45 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 14:11:46 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 14:11:47 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 14:11:48 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 14:11:49 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/30/ 14:11:50 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/30/ 14:11:51 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/30/ 14:11:52 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/30/ 14:11:54 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/30/ 14:11:55 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：58
+2019/07/30/ 14:11:56 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：0
+2019/07/30/ 14:11:57 PM - INFO - locator_click - 点击元素： xpath=//li[contains(text(),'58')]
+2019/07/30/ 14:11:58 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 14:11:59 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 14:12:00 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//input 写入信息：1
+2019/07/30/ 14:12:00 PM - INFO - new_find_element - //p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[7]//input该元素没有明确是哪种方式定位，无法定位
+2019/07/30/ 14:12:01 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 15:24:45 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 15:24:45 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 15:24:51 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 15:24:56 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 15:24:58 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 15:24:59 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 15:25:00 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 15:25:01 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 15:25:12 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 15:25:34 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 15:25:34 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 15:25:39 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 15:25:44 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 15:25:47 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 15:25:48 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 15:25:49 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 15:25:49 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 15:25:51 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/30/ 15:25:52 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/30/ 15:25:52 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/30/ 15:25:53 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/30/ 15:25:56 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/30/ 15:25:57 PM - INFO - new_find_element - //p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input该元素没有明确是哪种方式定位，无法定位
+2019/07/30/ 15:25:57 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 15:27:35 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 15:27:35 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 15:27:40 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 15:27:45 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 15:27:48 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 15:27:49 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 15:27:50 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 15:27:50 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 15:27:52 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/30/ 15:27:52 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/30/ 15:27:53 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/30/ 15:27:54 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/30/ 15:27:56 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/30/ 15:27:57 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/30/ 15:27:58 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/30/ 15:28:00 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 15:32:22 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 15:32:22 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 15:32:27 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 15:32:32 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 15:32:35 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 15:32:36 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 15:32:37 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 15:32:38 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 15:32:39 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/30/ 15:32:40 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/30/ 15:32:40 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/30/ 15:32:41 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/30/ 15:32:42 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：↓
+2019/07/30/ 15:32:44 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/30/ 15:32:45 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/30/ 15:32:46 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/30/ 15:32:47 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 15:32:48 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:32:49 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：2
+2019/07/30/ 15:32:50 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:32:51 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[2]//input 写入信息：SE1227002
+2019/07/30/ 15:32:52 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[2]//input 写入信息：回车
+2019/07/30/ 15:32:53 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 15:32:54 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:32:55 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[3]//input[@placeholder='输入色号'] 写入信息：2
+2019/07/30/ 15:32:56 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:33:27 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 15:40:31 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 15:40:31 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 15:40:36 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 15:40:41 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 15:40:44 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 15:40:45 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 15:40:46 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 15:40:46 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 15:40:48 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/30/ 15:40:48 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/30/ 15:40:49 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/30/ 15:40:50 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/30/ 15:40:51 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：↓
+2019/07/30/ 15:40:52 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/30/ 15:40:53 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/30/ 15:40:54 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/30/ 15:40:55 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 15:40:56 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:40:57 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：2
+2019/07/30/ 15:40:58 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:40:59 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[2]//input 写入信息：SE1227002
+2019/07/30/ 15:41:00 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[2]//input 写入信息：回车
+2019/07/30/ 15:41:01 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 15:41:02 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:41:03 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[3]//input[@placeholder='输入色号'] 写入信息：2
+2019/07/30/ 15:41:04 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:41:07 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 15:42:37 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 15:42:37 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 15:42:42 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 15:42:47 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 15:42:49 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 15:42:50 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 15:42:51 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 15:42:52 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 15:42:53 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/30/ 15:42:54 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/30/ 15:42:55 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/30/ 15:42:56 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/30/ 15:42:57 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：↓
+2019/07/30/ 15:42:58 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/30/ 15:42:59 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/30/ 15:43:00 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/30/ 15:43:01 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 15:43:02 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:43:03 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：2
+2019/07/30/ 15:43:04 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:43:05 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[2]//input 写入信息：SE1227002
+2019/07/30/ 15:43:06 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[2]//input 写入信息：回车
+2019/07/30/ 15:43:07 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 15:43:08 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:43:09 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[3]//input[@placeholder='输入色号'] 写入信息：2
+2019/07/30/ 15:43:10 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:43:11 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//div[@class='row_list']/div/div[1]//input 写入信息：1
+2019/07/30/ 15:43:12 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//div[@class='row_list']/div/div[1]//input 写入信息：回车
+2019/07/30/ 15:43:13 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//div[@class='row_list']/div/div[2]//input 写入信息：1
+2019/07/30/ 15:43:14 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//div[@class='row_list']/div/div[2]//input 写入信息：回车
+2019/07/30/ 15:43:15 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[5]//div[@class='row_list']/div/div[1]//input 写入信息：1
+2019/07/30/ 15:43:16 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[5]//div[@class='row_list']/div/div[1]//input 写入信息：回车
+2019/07/30/ 15:43:17 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[5]//div[@class='row_list']/div/div[2]//input 写入信息：1
+2019/07/30/ 15:43:50 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 15:47:54 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 15:47:54 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 15:47:59 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 15:48:04 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 15:48:06 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 15:50:12 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 15:50:12 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 15:50:18 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 15:50:23 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 15:50:25 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 15:50:26 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 15:50:27 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 15:50:28 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 15:50:29 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/30/ 15:50:30 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/30/ 15:50:31 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/30/ 15:50:32 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/30/ 15:50:33 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：↓
+2019/07/30/ 15:50:34 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/30/ 15:50:35 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/30/ 15:50:36 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/30/ 15:50:37 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 15:50:38 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:50:39 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：2
+2019/07/30/ 15:50:40 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:50:41 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[2]//input 写入信息：SE1227002
+2019/07/30/ 15:50:42 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[2]//input 写入信息：回车
+2019/07/30/ 15:50:43 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 15:50:44 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:50:45 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[3]//input[@placeholder='输入色号'] 写入信息：2
+2019/07/30/ 15:50:46 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:50:47 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//div[@class='row_list']/div/div[1]//input 写入信息：1
+2019/07/30/ 15:50:48 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//div[@class='row_list']/div/div[1]//input 写入信息：回车
+2019/07/30/ 15:50:49 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//div[@class='row_list']/div/div[2]//input 写入信息：1
+2019/07/30/ 15:50:50 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//div[@class='row_list']/div/div[2]//input 写入信息：回车
+2019/07/30/ 15:50:51 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[5]//div[@class='row_list']/div/div[1]//input 写入信息：1
+2019/07/30/ 15:50:52 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[5]//div[@class='row_list']/div/div[1]//input 写入信息：回车
+2019/07/30/ 15:50:53 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[5]//div[@class='row_list']/div/div[2]//input 写入信息：1
+2019/07/30/ 15:51:24 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 15:51:53 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 15:51:53 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 15:51:59 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 15:52:04 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 15:52:06 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 15:52:07 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 15:52:08 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 15:52:09 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 15:52:10 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/30/ 15:52:11 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/30/ 15:52:12 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/30/ 15:52:13 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/30/ 15:52:14 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：↓
+2019/07/30/ 15:52:15 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/30/ 15:52:16 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/30/ 15:52:17 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/30/ 15:52:18 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 15:52:19 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:52:20 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：2
+2019/07/30/ 15:52:21 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:52:22 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[2]//input 写入信息：SE1227002
+2019/07/30/ 15:52:23 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[2]//input 写入信息：回车
+2019/07/30/ 15:52:24 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 15:52:25 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:52:26 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[3]//input[@placeholder='输入色号'] 写入信息：2
+2019/07/30/ 15:52:27 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:52:28 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//div[@class='row_list']/div/div[1]//input 写入信息：1
+2019/07/30/ 15:52:29 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//div[@class='row_list']/div/div[1]//input 写入信息：回车
+2019/07/30/ 15:52:30 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//div[@class='row_list']/div/div[2]//input 写入信息：1
+2019/07/30/ 15:52:31 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//div[@class='row_list']/div/div[2]//input 写入信息：回车
+2019/07/30/ 15:52:32 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[5]//div[@class='row_list']/div/div[1]//input 写入信息：1
+2019/07/30/ 15:52:33 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[5]//div[@class='row_list']/div/div[1]//input 写入信息：回车
+2019/07/30/ 15:52:34 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[5]//div[@class='row_list']/div/div[2]//input 写入信息：1
+2019/07/30/ 15:52:35 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[7]//div[@class='row_list']/div/div[1]//input 写入信息：34.52
+2019/07/30/ 15:52:36 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[7]//div[@class='row_list']/div/div[2]//input 写入信息：34.52
+2019/07/30/ 15:52:37 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[7]//div[@class='row_list']/div/div[1]//input 写入信息：34.52
+2019/07/30/ 15:52:38 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[2]/div[7]//div[@class='row_list']/div/div[2]//input 写入信息：34.52
+2019/07/30/ 15:52:39 PM - INFO - new_find_element - //span[text()='确定开单']该元素没有明确是哪种方式定位，无法定位
+2019/07/30/ 15:52:40 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 15:56:52 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 15:56:52 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 15:56:58 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 15:57:03 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 15:57:05 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 15:57:06 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 15:57:07 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 15:57:08 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 15:57:12 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/30/ 15:57:13 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/30/ 15:57:14 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/30/ 15:57:15 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/30/ 15:57:16 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：↓
+2019/07/30/ 15:57:17 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/30/ 15:57:18 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/30/ 15:57:19 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/30/ 15:57:20 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 15:57:21 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:57:22 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：2
+2019/07/30/ 15:57:23 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 15:57:24 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//div[@class='row_list']/div/div[1]//input 写入信息：2
+2019/07/30/ 15:57:25 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//div[@class='row_list']/div/div[1]//input 写入信息：回车
+2019/07/30/ 15:57:26 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//div[@class='row_list']/div/div[2]//input 写入信息：2
+2019/07/30/ 15:57:27 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[7]//div[@class='row_list']/div/div[1]//input 写入信息：26.57
+2019/07/30/ 15:57:28 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[7]//div[@class='row_list']/div/div[2]//input 写入信息：26.57
+2019/07/30/ 15:57:29 PM - INFO - locator_click - 点击元素： xpath=//span[text()='确定开单']
+2019/07/30/ 15:57:32 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 15:59:44 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 15:59:44 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 16:25:48 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 16:25:48 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 16:45:35 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 16:45:35 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 16:45:41 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 16:45:46 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 16:45:48 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 16:45:49 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 16:45:50 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 16:45:51 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 16:45:52 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/30/ 16:45:53 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/30/ 16:45:54 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/30/ 16:45:55 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/30/ 16:45:56 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：↓
+2019/07/30/ 16:45:57 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/30/ 16:45:58 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/30/ 16:45:59 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/30/ 16:46:00 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 16:46:01 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 16:46:02 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：2
+2019/07/30/ 16:46:03 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 16:46:04 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//div[@class='row_list']/div/div[1]//input 写入信息：2
+2019/07/30/ 16:46:05 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//div[@class='row_list']/div/div[1]//input 写入信息：回车
+2019/07/30/ 16:46:06 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//div[@class='row_list']/div/div[2]//input 写入信息：2
+2019/07/30/ 16:46:07 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[7]//div[@class='row_list']/div/div[1]//input 写入信息：06.46
+2019/07/30/ 16:46:08 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[7]//div[@class='row_list']/div/div[2]//input 写入信息：06.46
+2019/07/30/ 16:46:09 PM - INFO - locator_click - 点击元素： xpath=//span[text()='确定开单']
+2019/07/30/ 16:46:12 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 17:25:52 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:25:52 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:25:57 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 17:26:02 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 17:26:04 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 17:26:05 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 17:26:06 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 17:26:07 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 17:26:08 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '销售管理' )]
+2019/07/30/ 17:26:09 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '柜台开单' )]
+2019/07/30/ 17:26:10 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '新建大货订单' )]
+2019/07/30/ 17:26:11 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：金
+2019/07/30/ 17:26:12 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：↓
+2019/07/30/ 17:26:13 PM - INFO - locator_send_keys - 向元素：xpath=//input[contains(@placeholder,'请输入客户')] 写入信息：回车
+2019/07/30/ 17:26:14 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：SE1227001
+2019/07/30/ 17:26:15 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[2]//input 写入信息：回车
+2019/07/30/ 17:26:16 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：1
+2019/07/30/ 17:26:17 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 17:26:18 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：2
+2019/07/30/ 17:26:19 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[3]//input[@placeholder='输入色号'] 写入信息：回车
+2019/07/30/ 17:26:20 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//div[@class='row_list']/div/div[1]//input 写入信息：2
+2019/07/30/ 17:26:21 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//div[@class='row_list']/div/div[1]//input 写入信息：回车
+2019/07/30/ 17:26:22 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[5]//div[@class='row_list']/div/div[2]//input 写入信息：2
+2019/07/30/ 17:26:23 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[7]//div[@class='row_list']/div/div[1]//input 写入信息：22.26
+2019/07/30/ 17:26:24 PM - INFO - locator_send_keys - 向元素：xpath=//p[contains(text(),'仓库销售')]/../../div/div/div/div[@class='li_table']/div[@class='li-table-body']/div[1]/div[7]//div[@class='row_list']/div/div[2]//input 写入信息：22.26
+2019/07/30/ 17:26:25 PM - INFO - locator_click - 点击元素： xpath=//span[text()='确定开单']
+2019/07/30/ 17:26:28 PM - INFO - locator_click - 点击元素： xpath=//span[contains(text(), '取消订单')]
+2019/07/30/ 17:26:29 PM - INFO - locator_click - 点击元素： xpath=//p[text()='取消订单']/../../..//span[contains(text(),'确定')]
+2019/07/30/ 17:26:30 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 17:28:33 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:28:33 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:29:19 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:29:19 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:31:01 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:31:01 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:31:07 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 17:31:12 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 17:31:14 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 17:31:15 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 17:31:16 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 17:31:17 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 17:31:18 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 17:32:58 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:32:58 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:33:03 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 17:33:08 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 17:33:11 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 17:33:12 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 17:33:13 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 17:33:14 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 17:33:14 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 17:33:38 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:33:38 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:33:44 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 17:33:49 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 17:33:51 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 17:33:52 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 17:33:53 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 17:33:54 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 17:33:54 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 17:43:20 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:43:20 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:43:43 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:43:43 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:43:49 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 17:43:54 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 17:43:56 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 17:43:57 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 17:43:58 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 17:43:59 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 17:44:06 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 17:44:56 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:44:56 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:45:01 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 17:45:06 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 17:45:08 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 17:45:09 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 17:45:10 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 17:45:11 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 17:45:12 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 17:50:07 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:50:07 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:50:12 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 17:50:17 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 17:50:19 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 17:50:20 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 17:50:21 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 17:50:22 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 17:50:23 PM - INFO - framework_teardown - driver销毁
+2019/07/30/ 17:51:11 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:51:11 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 17:51:16 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 17:51:21 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 17:51:24 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 17:51:25 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 17:51:26 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入密码'] 写入信息：123456
+2019/07/30/ 17:51:26 PM - INFO - locator_click - 点击元素： xpath=//button[@type='button']
+2019/07/30/ 17:51:27 PM - INFO - framework_teardown - driver销毁2019/07/30/ 20:21:19 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 20:21:19 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 20:21:49 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 20:21:49 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 20:21:57 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 20:22:02 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 20:22:02 PM - INFO - get_ini_value - 成功找到ini文件
+2019/07/30/ 20:22:02 PM - INFO - framework_setup - driver初始化
+2019/07/30/ 20:22:05 PM - INFO - framework_setup - 框架初始化
+2019/07/30/ 20:22:06 PM - INFO - locator_send_keys - 向元素：xpath=//input[@placeholder='请输入用户名'] 写入信息：xs2
+2019/07/30/ 20:22:08 PM - INFO - launch_browser - 启动FireFox浏览器
+2019/07/30/ 20:22:13 PM - INFO - framework_setup - driver初始化
